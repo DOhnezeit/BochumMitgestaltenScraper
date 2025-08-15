@@ -1,0 +1,21 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Lokale Daten
+daten.csv
+
+# Virtuelle Umgebung
+venv/
+.env
+
+# Uvicorn & Temp Files
+*.db
+*.sqlite3
+*.tmp
